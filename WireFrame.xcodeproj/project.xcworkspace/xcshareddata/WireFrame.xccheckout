@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C9EC4552-96FA-4251-9A30-36BC1FC2BD64</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WireFrame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CFC171900DC12C9D6B7EBA4EA0FD66481D0C00D2</key>
+		<string>https://github.com/YingChen/WireFrame.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WireFrame.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CFC171900DC12C9D6B7EBA4EA0FD66481D0C00D2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/YingChen/WireFrame.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CFC171900DC12C9D6B7EBA4EA0FD66481D0C00D2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CFC171900DC12C9D6B7EBA4EA0FD66481D0C00D2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WireFrame</string>
+		</dict>
+	</array>
+</dict>
+</plist>
